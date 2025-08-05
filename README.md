@@ -1,3 +1,5 @@
+## *** This library is no longer maintained. This functionality is now offered in the Global Payments’ library which can be found [here](https://github.com/globalpayments/android-demo-app). ***
+
 # HLTokenize
 Android app to tokenize Credit Card info
 
